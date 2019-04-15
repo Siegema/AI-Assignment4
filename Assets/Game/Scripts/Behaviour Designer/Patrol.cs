@@ -37,6 +37,10 @@ public class Patrol : MoveToGoal
                 return TaskStatus.Running;
             }
         }
+        else if (baseReturn == TaskStatus.Success && index >= WayPoints.Value.Count)
+        {
+            index = 0;
+        }
 
         return TaskStatus.Success;
     }

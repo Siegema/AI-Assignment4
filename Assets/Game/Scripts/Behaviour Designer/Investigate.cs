@@ -31,9 +31,7 @@ public class Investigate : MoveToGoal
                 => Vector3.Distance(a.position, transform.position).CompareTo(Vector3.Distance(b.position, transform.position))
             );
 
-            agent.SetDestination(Areas.Value[0].position);
-
-            Areas.Value.RemoveAt(0);
+            agent.SetDestination(Areas.Value[0].position); 
 
             return TaskStatus.Success;
         }

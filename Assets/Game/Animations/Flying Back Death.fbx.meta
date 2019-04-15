@@ -1,29 +1,29 @@
 fileFormatVersion: 2
-guid: 710b2f92095fce34f9d43ce20ba4b6ac
+guid: 5d7caa164497f144d834fe505953a823
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Head
-    100002: HeadTop_End
-    100004: Hips
-    100006: LeftArm
-    100008: LeftFoot
-    100010: LeftForeArm
-    100012: LeftHand
-    100014: LeftHandIndex1
-    100016: LeftHandIndex2
-    100018: LeftHandIndex3
-    100020: LeftHandIndex4
-    100022: LeftHandThumb1
-    100024: LeftHandThumb2
-    100026: LeftHandThumb3
-    100028: LeftHandThumb4
-    100030: LeftLeg
-    100032: LeftShoulder
-    100034: LeftToe_End
-    100036: LeftToeBase
-    100038: LeftUpLeg
-    100040: //RootNode
+    100000: //RootNode
+    100002: Head
+    100004: HeadTop_End
+    100006: Hips
+    100008: LeftArm
+    100010: LeftFoot
+    100012: LeftForeArm
+    100014: LeftHand
+    100016: LeftHandIndex1
+    100018: LeftHandIndex2
+    100020: LeftHandIndex3
+    100022: LeftHandIndex4
+    100024: LeftHandThumb1
+    100026: LeftHandThumb2
+    100028: LeftHandThumb3
+    100030: LeftHandThumb4
+    100032: LeftLeg
+    100034: LeftShoulder
+    100036: LeftToe_End
+    100038: LeftToeBase
+    100040: LeftUpLeg
     100042: Neck
     100044: RightArm
     100046: RightFoot
@@ -45,27 +45,27 @@ ModelImporter:
     100078: Spine
     100080: Spine1
     100082: Spine2
-    400000: Head
-    400002: HeadTop_End
-    400004: Hips
-    400006: LeftArm
-    400008: LeftFoot
-    400010: LeftForeArm
-    400012: LeftHand
-    400014: LeftHandIndex1
-    400016: LeftHandIndex2
-    400018: LeftHandIndex3
-    400020: LeftHandIndex4
-    400022: LeftHandThumb1
-    400024: LeftHandThumb2
-    400026: LeftHandThumb3
-    400028: LeftHandThumb4
-    400030: LeftLeg
-    400032: LeftShoulder
-    400034: LeftToe_End
-    400036: LeftToeBase
-    400038: LeftUpLeg
-    400040: //RootNode
+    400000: //RootNode
+    400002: Head
+    400004: HeadTop_End
+    400006: Hips
+    400008: LeftArm
+    400010: LeftFoot
+    400012: LeftForeArm
+    400014: LeftHand
+    400016: LeftHandIndex1
+    400018: LeftHandIndex2
+    400020: LeftHandIndex3
+    400022: LeftHandIndex4
+    400024: LeftHandThumb1
+    400026: LeftHandThumb2
+    400028: LeftHandThumb3
+    400030: LeftHandThumb4
+    400032: LeftLeg
+    400034: LeftShoulder
+    400036: LeftToe_End
+    400038: LeftToeBase
+    400040: LeftUpLeg
     400042: Neck
     400044: RightArm
     400046: RightFoot
@@ -87,7 +87,7 @@ ModelImporter:
     400078: Spine
     400080: Spine1
     400082: Spine2
-    7400000: Looking
+    7400000: Death
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -118,10 +118,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Looking
+      name: Death
       takeName: mixamo.com
-      firstFrame: 30
-      lastFrame: 195
+      firstFrame: 0
+      lastFrame: 91
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

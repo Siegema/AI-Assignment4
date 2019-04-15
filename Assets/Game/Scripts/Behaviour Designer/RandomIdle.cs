@@ -35,7 +35,7 @@ public class RandomIdle : Action
     public override TaskStatus OnUpdate()
     { 
         animator.SetTrigger("Idle");
-        animator.SetInteger("randInt", Random.Range(0, 2));
+        animator.SetInteger("randInt", Random.Range(0, 3));
         return TaskStatus.Success;
     }
 
