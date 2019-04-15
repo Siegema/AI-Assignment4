@@ -39,7 +39,7 @@ public class WaitForAnimation : Action
     {
         if (animationCompleted == true)
         {
-            return TaskStatus.Success;
+            return TaskStatus.Running;
         }
 
         return TaskStatus.Running;

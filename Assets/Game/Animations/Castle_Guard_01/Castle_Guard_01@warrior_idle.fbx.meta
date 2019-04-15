@@ -89,6 +89,7 @@ ModelImporter:
     400082: Spine2
     7400000: warrior_idle
     9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -102,7 +103,13 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     rigImportErrors: 
-    rigImportWarnings: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'LeftUpLeg'
+      : position error = 2.078593 mm\n\t'LeftLeg' : position error = 702.998352 mm\n\t'LeftFoot'
+      : position error = 793.317017 mm\n\t'LeftToeBase' : position error = 430.751953
+      mm\n\t'RightUpLeg' : position error = 2.078598 mm\n\t'RightLeg' : position error
+      = 702.999390 mm\n\t'RightFoot' : position error = 793.316895 mm\n\t'RightToeBase'
+      : position error = 430.751953 mm\n"
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 

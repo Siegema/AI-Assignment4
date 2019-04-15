@@ -35,7 +35,7 @@ public class Investigate : MoveToGoal
 
             Areas.Value.RemoveAt(0);
 
-            return TaskStatus.Running;
+            return TaskStatus.Success;
         }
 
         return TaskStatus.Success;
